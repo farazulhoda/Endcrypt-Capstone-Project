@@ -19,6 +19,9 @@ The Text Area at the bottom is an output area that shows the status of Encryptio
 
 #EncryptThis_CMD.jar
 
+![Endcrypt-gui](https://user-images.githubusercontent.com/42433776/144497932-817e6c8e-6399-45a5-9045-97d06aeb872c.png)
+
+
 ** Please Note -- This version is only runnable from the command line. **
 
 When executing the jar, the user is able to pass in command line arguments as follows:
