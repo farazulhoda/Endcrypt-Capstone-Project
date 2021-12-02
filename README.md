@@ -3,7 +3,8 @@ Java application that performs AES file encryption and decryption
 
 There are currently 2 versions of the program.  The first version utilizing a user interface and the second version operating  via the command-line only.
 
- >> EncryptThis_UI.jar -GUI - 
+ >> EncryptThis_UI.jar -GUI -
+ 
  >> EncryptThis_CMD.jar -Command-line - 
 
 EncryptThis_UI.jar 
